@@ -1048,11 +1048,9 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [
                         -74.00133,
                         40.70989,
                         0
-                    ]
                 ]
             },
             "properties": {
