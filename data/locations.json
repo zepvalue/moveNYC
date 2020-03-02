@@ -1,0 +1,1494 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.015016,
+                    40.7181804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Battery Park Chambers Street Meetup",
+                "styleUrl": "#icon-seq-0-0",
+                "styleHash": "708a031d",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-0-normal",
+                    "highlight": "#icon-seq-0-0-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=A|FF0000|000000",
+                "description": "<img src=\"https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/uj7it9ds8jqnj6v79t3v92tshs/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALowZLEgfULD3yczMFfDr54roW8E6FE-NAEBJTlmhE2Cx6PYiGF8HAd3Sc4nvkO4-fUs4LC2nmQFkNJ7HKsOAr4OIvqaoIaySzIZESmdrgoH50ZCTJnDEH3okdMnngB0sJhKddQiZF2iwKfgKtBcSetJLiufkGZEf_gU3xvVZrnn-8HlKx7ZsKpQMrA8lZFDeUsSDy63Ph8GrU4iUXLJ3PdmkIEGTrw6Aafj1t6L-Jbxnzh1_PictgFnkdJtJVNEsC_mPTpwU1HmXqrdQkHVjpec-j5wAA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>When we say Battery Park this is what we mean.  Always meet up at the end of Chambers street here when there is a jam announced for battery.  Security can be tight or lax, it varies.",
+                "gx_media_links": "https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/uj7it9ds8jqnj6v79t3v92tshs/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALowZLEgfULD3yczMFfDr54roW8E6FE-NAEBJTlmhE2Cx6PYiGF8HAd3Sc4nvkO4-fUs4LC2nmQFkNJ7HKsOAr4OIvqaoIaySzIZESmdrgoH50ZCTJnDEH3okdMnngB0sJhKddQiZF2iwKfgKtBcSetJLiufkGZEf_gU3xvVZrnn-8HlKx7ZsKpQMrA8lZFDeUsSDy63Ph8GrU4iUXLJ3PdmkIEGTrw6Aafj1t6L-Jbxnzh1_PictgFnkdJtJVNEsC_mPTpwU1HmXqrdQkHVjpec-j5wAA?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0054995,
+                    40.7117479,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pace University",
+                "styleUrl": "#icon-seq-0-1",
+                "styleHash": "1a4a52fc",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-1-normal",
+                    "highlight": "#icon-seq-0-1-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=B|FF2500|000000",
+                "description": "<img src=\"https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/6mfqd0b6bgn4ahctg54oho168g/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALoA-DOEGKkpkrP1fxGi0zOz38Ni10TJJcj4Fpx8OM9_Icmwonojl3oPnMK6OkgIOijdxc2BdCpXsmv6RSiRXlxpim12DaI-KGZUFeACYOxIJSlNXC182mZ9XNIjssRyNtvbbCw1XWno0JmrdS4jmRRGioWNGQ4NpGWoYKupxeG_JhW4mz5ZvwBojNByZ8i-IEfwRtgHqDe94Mq96_T-a8eQ0MBMBDoIoQCb96CRfSQeJ0IvdfNp79AZq9eUo9xaNPuk9zNbB4SBZE3RnWaVyLvIgTVXNA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>CURRENTLY UNDER CONSTRUCTIONRight outside the spot you will see squares and ledges.  This is the meetup spot for Pace University trainings",
+                "gx_media_links": "https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/6mfqd0b6bgn4ahctg54oho168g/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALoA-DOEGKkpkrP1fxGi0zOz38Ni10TJJcj4Fpx8OM9_Icmwonojl3oPnMK6OkgIOijdxc2BdCpXsmv6RSiRXlxpim12DaI-KGZUFeACYOxIJSlNXC182mZ9XNIjssRyNtvbbCw1XWno0JmrdS4jmRRGioWNGQ4NpGWoYKupxeG_JhW4mz5ZvwBojNByZ8i-IEfwRtgHqDe94Mq96_T-a8eQ0MBMBDoIoQCb96CRfSQeJ0IvdfNp79AZq9eUo9xaNPuk9zNbB4SBZE3RnWaVyLvIgTVXNA?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9998346,
+                    40.715879,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Columbus Park South",
+                "styleUrl": "#icon-seq-0-2",
+                "styleHash": "-71f51d4c",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-2-normal",
+                    "highlight": "#icon-seq-0-2-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=C|FF4A00|000000",
+                "description": "<img src=\"https://doc-10-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/g867ofalddqvm1uvmoqoj9h170/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqWFNb1jNex0Dyegm0ebiSCdPaXTtmbh5EDuGwONClvI_QIpjgnybWFuo6LPuhITBzGBxXehsyq7zV2v32nbi-k7kmNU1S2X5nl__OPiO6Dd1VnTefOmAVf0-r8STwxgODhPBS04hhe9f1tojem736aXcRu_E9zif4liNJGN1nV-IKn20sVI9Ex2Ui5UBYeUjEPbI6prydEFx7gVPe2SSE7FS2BW8pQRDI1MWz6eB2jgYPK6NRACNpzxyq4vlkQEi-cInsJ00h0eVK76nk9V5Gqcd1K3w?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This area of the park has a bar setup and a lot of ledges when the sprinklers aren't turned on.",
+                "gx_media_links": "https://doc-10-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/g867ofalddqvm1uvmoqoj9h170/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqWFNb1jNex0Dyegm0ebiSCdPaXTtmbh5EDuGwONClvI_QIpjgnybWFuo6LPuhITBzGBxXehsyq7zV2v32nbi-k7kmNU1S2X5nl__OPiO6Dd1VnTefOmAVf0-r8STwxgODhPBS04hhe9f1tojem736aXcRu_E9zif4liNJGN1nV-IKn20sVI9Ex2Ui5UBYeUjEPbI6prydEFx7gVPe2SSE7FS2BW8pQRDI1MWz6eB2jgYPK6NRACNpzxyq4vlkQEi-cInsJ00h0eVK76nk9V5Gqcd1K3w?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0001619,
+                    40.7145739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Columbus Park North",
+                "styleUrl": "#icon-seq-0-3",
+                "styleHash": "-2e34d68c",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-3-normal",
+                    "highlight": "#icon-seq-0-3-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=D|FF6E00|000000",
+                "description": "<img src=\"https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/vgr5tvc7noc2n4oq9c31vgusco/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALp1BGYMi-jO5CTTHMn0z-NjKhe1koyOIKWqUDjib6P-Ka4bUngXT7qfkcBqJpfcpXMuqshuqcL0qnvexuVjHhL_-P9Ns9BQgJQf67SYvPLYvZ5UgVcUpOZLF_Wy5EDgYpZrO4w7Il6AHMKHgV-62DN7JOpFJThoReRiSLVlcTJ45w38wSe2u24F16kpFAzKs5Q8LUkF4H6bdZjJXrHGgdvAgdLTAZygf7FR0VeXYb1RqIXhqYroHlRuGBHIuSvOTLzsTy-vX5JXESi1fJXKxEo7fLIAwQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>this back area of the park has more walls and gates for vaults",
+                "gx_media_links": "https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/vgr5tvc7noc2n4oq9c31vgusco/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALp1BGYMi-jO5CTTHMn0z-NjKhe1koyOIKWqUDjib6P-Ka4bUngXT7qfkcBqJpfcpXMuqshuqcL0qnvexuVjHhL_-P9Ns9BQgJQf67SYvPLYvZ5UgVcUpOZLF_Wy5EDgYpZrO4w7Il6AHMKHgV-62DN7JOpFJThoReRiSLVlcTJ45w38wSe2u24F16kpFAzKs5Q8LUkF4H6bdZjJXrHGgdvAgdLTAZygf7FR0VeXYb1RqIXhqYroHlRuGBHIuSvOTLzsTy-vX5JXESi1fJXKxEo7fLIAwQ?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9983219,
+                    40.7160905,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BOK LEI PO TRADING INC (Buy Fieyues Here)",
+                "styleUrl": "#icon-seq-0-4",
+                "styleHash": "-54743db5",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-4-normal",
+                    "highlight": "#icon-seq-0-4-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=E|FF9300|000000",
+                "description": "<img src=\"https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ba1lsiuptsulg9t9qdkppajl48/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALocKoen7vM3mF2sLayCG5KbP-EaBpCd49r5tn881xK8lxHTt5YanWdTF2FFfKmJ4g5C5GN9e0GzZaNy2zhmCqdtbBpZKB-0WJUZygYHxdmF-Oaxo2hYaBh2dmQqvg1WjPCuliN0AqubmIVB6eQqwURPwb9x-vqeBgXMhNLWsNDPXMHcyeMuuSVe60IZiM-xeTFnWue6-I5-Rh3dtZV9xmJe67gUnBKmL2etBuaRE6XuMt98vAHzGOVR2dB3cChs29OE5y1prL2qq7bR4R63OReGCyc7qw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>$18 for white and $20 for black<br><br>http://store.bokleipo.com/index.php?",
+                "gx_media_links": "https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ba1lsiuptsulg9t9qdkppajl48/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALocKoen7vM3mF2sLayCG5KbP-EaBpCd49r5tn881xK8lxHTt5YanWdTF2FFfKmJ4g5C5GN9e0GzZaNy2zhmCqdtbBpZKB-0WJUZygYHxdmF-Oaxo2hYaBh2dmQqvg1WjPCuliN0AqubmIVB6eQqwURPwb9x-vqeBgXMhNLWsNDPXMHcyeMuuSVe60IZiM-xeTFnWue6-I5-Rh3dtZV9xmJe67gUnBKmL2etBuaRE6XuMt98vAHzGOVR2dB3cChs29OE5y1prL2qq7bR4R63OReGCyc7qw?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9885345,
+                    40.7172594,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scoops 1",
+                "styleUrl": "#icon-seq-0-5",
+                "styleHash": "-34ac328f",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-5-normal",
+                    "highlight": "#icon-seq-0-5-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=F|FFB800|000000",
+                "description": "<img src=\"https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/4j44c24lrsiv2kiqb4on8au554/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALoQnJPnYOi7d7467svZK8HKmHNdJBZCiDXf6ZMYjBPP4ySOXic1q_H5OfRQPBPDhmgOLO70luxM3BZ4qMbPfCh8l-m0dAGp4Pisoifj-0vw7B5WEhPSvWk0N7HKfwj_22Sr0ps4gWP5UZRI-Yzc7496hVE5dgBVP4HdrlTA6cREAlDv-HuwJWQvCZtd7UdZUoLCGBENmmTshTfxrn8unXk4VIcpvbXzHJcJ2SS3NOzJLkj_3kat59HSSOoOLpQMpwaRNLyv20L7MtqbRym1_tBaPndKpw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This is the famous scoops spot in the lower east side.  Don't make too much noise or be a nuisance since the people here already like us.  Don't ruin that.  Be respectful.",
+                "gx_media_links": "https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/4j44c24lrsiv2kiqb4on8au554/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALoQnJPnYOi7d7467svZK8HKmHNdJBZCiDXf6ZMYjBPP4ySOXic1q_H5OfRQPBPDhmgOLO70luxM3BZ4qMbPfCh8l-m0dAGp4Pisoifj-0vw7B5WEhPSvWk0N7HKfwj_22Sr0ps4gWP5UZRI-Yzc7496hVE5dgBVP4HdrlTA6cREAlDv-HuwJWQvCZtd7UdZUoLCGBENmmTshTfxrn8unXk4VIcpvbXzHJcJ2SS3NOzJLkj_3kat59HSSOoOLpQMpwaRNLyv20L7MtqbRym1_tBaPndKpw?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9852622,
+                    40.7169098,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scoops 2",
+                "styleUrl": "#icon-seq-0-6",
+                "styleHash": "3f145d29",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-6-normal",
+                    "highlight": "#icon-seq-0-6-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=G|FFDD00|000000",
+                "description": "Once again, don't make it hot.  Have fun, train hard, be respectful"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.980689,
+                    40.7268482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tompkins Square Park Bars",
+                "styleUrl": "#icon-seq-0-7",
+                "styleHash": "-156fe913",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-7-normal",
+                    "highlight": "#icon-seq-0-7-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=H|FDFF00|000000",
+                "description": "<img src=\"https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/lj9rjot0r89d9l1775qg1qlsb0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrDtJNg3UNzko_aomlNRqZ8ErHoBRJpQr9HMUgNIUVhRYvYusVQXF3r837dS3i1N3QvVckmHnVaqxqq5e-Ib_I3Nj5c8gFSqnNbYgKTCSkMHM2VvqVWdFPuxY7MjDcaftPe3_r6qfrQXqq5js26qFkLYUR7ahs42ADCz_jBJIcwKCYtby6PDzvXAAbXSCqpxMtB1OVihpjqfmilM52j4wCSA4oyuA4ZSyZynWrKdGE810eOBsqFx8O6Yyf9rn5Mp2schXZbk7wAmri0ZbNHpKyJDVux6Q?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>These are one of the only bar playgrounds still around in NYC.  Come train on the yellow, blue or red setups.  Easiest way to get here is walk to the corner of Ave B and East 10th street and you'll see the bars",
+                "gx_media_links": "https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/lj9rjot0r89d9l1775qg1qlsb0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrDtJNg3UNzko_aomlNRqZ8ErHoBRJpQr9HMUgNIUVhRYvYusVQXF3r837dS3i1N3QvVckmHnVaqxqq5e-Ib_I3Nj5c8gFSqnNbYgKTCSkMHM2VvqVWdFPuxY7MjDcaftPe3_r6qfrQXqq5js26qFkLYUR7ahs42ADCz_jBJIcwKCYtby6PDzvXAAbXSCqpxMtB1OVihpjqfmilM52j4wCSA4oyuA4ZSyZynWrKdGE810eOBsqFx8O6Yyf9rn5Mp2schXZbk7wAmri0ZbNHpKyJDVux6Q?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9814625,
+                    40.7199859,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NYC Department of Parks & Recreation: Hamilton Fish Park",
+                "styleUrl": "#icon-seq-0-8",
+                "styleHash": "5c684639",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-8-normal",
+                    "highlight": "#icon-seq-0-8-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=I|D8FF00|000000",
+                "description": "<img src=\"https://doc-0o-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ls4aocasvj6fir7gkcg7h9lc2o/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALq1m2zH7AP6svE69dQXsgUa2OEnmgR0hsrbwWkFos-T4Sb5dS1wSoPa2mZ2-kiIdZ9OmU8NkuBXQuzE4tGDZIUHOx3Sn7OQuKQwF1eFkGlaOmtM-2pnRtPrGg3RGwkAyz4a_ltpKEDEDw3dpCdTeK_zuV8mxIoc3mohOCUuLML9GEZMw-upNgcdLjdAIEXBvzlk8c9s6vZBJi1OmzDokv5rj9I45BgEKQxbWK9iL0NJqOBNEyXegnwLqGbWb4Xt4ZwWaD1-C8C12cSDqjE5zCWuY216sg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>When we say HAMFISH this is where we mean.  Usually the next spot after a Scoops meetup",
+                "gx_media_links": "https://doc-0o-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ls4aocasvj6fir7gkcg7h9lc2o/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALq1m2zH7AP6svE69dQXsgUa2OEnmgR0hsrbwWkFos-T4Sb5dS1wSoPa2mZ2-kiIdZ9OmU8NkuBXQuzE4tGDZIUHOx3Sn7OQuKQwF1eFkGlaOmtM-2pnRtPrGg3RGwkAyz4a_ltpKEDEDw3dpCdTeK_zuV8mxIoc3mohOCUuLML9GEZMw-upNgcdLjdAIEXBvzlk8c9s6vZBJi1OmzDokv5rj9I45BgEKQxbWK9iL0NJqOBNEyXegnwLqGbWb4Xt4ZwWaD1-C8C12cSDqjE5zCWuY216sg?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9335787,
+                    40.8614077,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Tryon Park",
+                "styleUrl": "#icon-seq-0-9",
+                "styleHash": "1930231e",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-9-normal",
+                    "highlight": "#icon-seq-0-9-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=J|B3FF00|000000",
+                "description": "<img src=\"https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/agug1m8qu9cj70o8769vde41j4/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrBWz2VvFRy9ocXllzlgGZx3UcjyDIb8g2-cozKf95KhfSrHUQznxUtx8dL8rgvF9uvcgHa-W_siLxaRHgOOOlJAW2ORYtQOt5wJJu85f-OEu9xJiWFGTXpdEr3fkf4p8VsFB70P3d8PrvvNXKL_eMMHVKcracYwNpc_Xyhk8iFKNSRqcujgSAeSp3JR-QOMoMLnxvLjk3QtwyX9M0nwoE828J-fEP8rUHYNtZOxxwiAewSjbOp7Ig0UuIiRrr6RuPtY9F-vI4uq9qa5vnThhDY6D5JyQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>When you get to 190th street make sure you walk ALL the way down St.Michels Promenade so you can see the big stone walls we all use to train on, pictured above.",
+                "gx_media_links": "https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/agug1m8qu9cj70o8769vde41j4/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrBWz2VvFRy9ocXllzlgGZx3UcjyDIb8g2-cozKf95KhfSrHUQznxUtx8dL8rgvF9uvcgHa-W_siLxaRHgOOOlJAW2ORYtQOt5wJJu85f-OEu9xJiWFGTXpdEr3fkf4p8VsFB70P3d8PrvvNXKL_eMMHVKcracYwNpc_Xyhk8iFKNSRqcujgSAeSp3JR-QOMoMLnxvLjk3QtwyX9M0nwoE828J-fEP8rUHYNtZOxxwiAewSjbOp7Ig0UuIiRrr6RuPtY9F-vI4uq9qa5vnThhDY6D5JyQ?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9732486,
+                    40.7438715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "351",
+                "styleUrl": "#icon-seq-0-10",
+                "styleHash": "-4b90299f",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-10-normal",
+                    "highlight": "#icon-seq-0-10-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=K|8EFF00|000000",
+                "description": "<img src=\"https://doc-0k-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/at0kb778mp2aespf27k8ojh64k/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqG9GFliofSYoQmhWFdAAj7gRefrPudiz_cZMXwWAOtd0XNqON_qtw2WbJ9D12-cPbp0TvMZr2PKL91EzG3Ayjp_upQ4_fxlWcBBGPKjhkc7e7BeCat8-imh2iIEo_um3nO8va3SeJA8nDF_91hsWd-Q-8gdjzoKdQJx_HcBrW4sYn0gKZWbFZhFwSpat_g1x5OdN6AdlezyN2UCpIegElqHNvYJeeIa0MPpJMhT40fdC4FNpBeOjYHSqUmqzDfQxGRhaKQoA0ZRCswWKVR1Utv_S8d2w?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>*CURRENTLY UNDER CONSTRUCTION*We call it 351 cause its on East 35th street and 1st avenue.  You cant miss it bunch of beige walls and open to the public signs on the walls.",
+                "gx_media_links": "https://doc-0k-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/at0kb778mp2aespf27k8ojh64k/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqG9GFliofSYoQmhWFdAAj7gRefrPudiz_cZMXwWAOtd0XNqON_qtw2WbJ9D12-cPbp0TvMZr2PKL91EzG3Ayjp_upQ4_fxlWcBBGPKjhkc7e7BeCat8-imh2iIEo_um3nO8va3SeJA8nDF_91hsWd-Q-8gdjzoKdQJx_HcBrW4sYn0gKZWbFZhFwSpat_g1x5OdN6AdlezyN2UCpIegElqHNvYJeeIa0MPpJMhT40fdC4FNpBeOjYHSqUmqzDfQxGRhaKQoA0ZRCswWKVR1Utv_S8d2w?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9507797,
+                    40.7603633,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blackwell Playground",
+                "styleUrl": "#icon-seq-0-11",
+                "styleHash": "5759f0a5",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-11-normal",
+                    "highlight": "#icon-seq-0-11-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=L|6AFF00|000000",
+                "description": "<img src=\"https://doc-0s-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/olef6g3jq95fpg176pcd7miiuc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpKQQn8VaGLiTe5Gu-3oLOItscnW216ILOcfOfhdyG_EBBQBmBe7K6yLdKGRu9fISi89To4j_uY0eA1aHS3REpYVIy3Ovmp3R_zkTnrwMqRjPZMvRKnuQ9ldqrHp0wig6wqGkh8DkUnAmLeWb30Xwkr2-Qytf_c4RVkEcB_jbu9kn2RDi1ufEAjpBbXAC_eKAL29EeojFU9f5J1D2VnGcueTR4SDSgH420OKQYJGMpj-BUTLmMhYERXm9KOWle6HomH3mFxEQHu9okZlIIN8CxwsVYwWQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>First meetup spot of the Roosevelt Island route.  Can't miss the giant stone circles and mulch play area.  Right next to the basketball courts",
+                "gx_media_links": "https://doc-0s-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/olef6g3jq95fpg176pcd7miiuc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpKQQn8VaGLiTe5Gu-3oLOItscnW216ILOcfOfhdyG_EBBQBmBe7K6yLdKGRu9fISi89To4j_uY0eA1aHS3REpYVIy3Ovmp3R_zkTnrwMqRjPZMvRKnuQ9ldqrHp0wig6wqGkh8DkUnAmLeWb30Xwkr2-Qytf_c4RVkEcB_jbu9kn2RDi1ufEAjpBbXAC_eKAL29EeojFU9f5J1D2VnGcueTR4SDSgH420OKQYJGMpj-BUTLmMhYERXm9KOWle6HomH3mFxEQHu9okZlIIN8CxwsVYwWQ?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9771298,
+                    40.7729389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Adventure Playground",
+                "styleUrl": "#icon-seq-0-12",
+                "styleHash": "-36cde00f",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-12-normal",
+                    "highlight": "#icon-seq-0-12-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=M|45FF00|000000",
+                "description": "<img src=\"https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/tnp0ttng17r9kkqmaghau09m04/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALof1_jJiTyiVcAs65j8bjs24FlqUjxkh60InMXsduxfprRX_vN9JcKGjWV9MlAiuy5gwNtsOculi4McC8k2Mlo3NfwIsuzhOv8LOOVXjDphUVfBPO3AziFU6A83bUfciZh_2VQwa6RZuGPwjxd9rpsCvfb1Wx29_QfL7B0QU-wgYyMGfNOYj4VFtV_dxI4r8J5YD_E2yGSZtkxbFRwosYc141mgQCUM6eW9n_Ka-zCYJ8UJawl6whNKi6PCbLSBFMx6sd9LanHezK7Y_EdyM-V9U3rTEA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>One of the best playground spots in Central Park.  Don't go in big groups and avoid during afterschool hours cause it gets crowded.  Two main parks here to hit.  One is the above and the other is right next to it with a bunch of circles.  You can't miss it.  Right by Tavern on the Green Restuarant",
+                "gx_media_links": "https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/tnp0ttng17r9kkqmaghau09m04/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALof1_jJiTyiVcAs65j8bjs24FlqUjxkh60InMXsduxfprRX_vN9JcKGjWV9MlAiuy5gwNtsOculi4McC8k2Mlo3NfwIsuzhOv8LOOVXjDphUVfBPO3AziFU6A83bUfciZh_2VQwa6RZuGPwjxd9rpsCvfb1Wx29_QfL7B0QU-wgYyMGfNOYj4VFtV_dxI4r8J5YD_E2yGSZtkxbFRwosYc141mgQCUM6eW9n_Ka-zCYJ8UJawl6whNKi6PCbLSBFMx6sd9LanHezK7Y_EdyM-V9U3rTEA?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9770681,
+                    40.7688539,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heckscher Playground",
+                "styleUrl": "#icon-seq-0-13",
+                "styleHash": "-7a06032a",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-13-normal",
+                    "highlight": "#icon-seq-0-13-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=N|20FF00|000000",
+                "description": "<img src=\"https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/no9nfh6obi0r1v3tga9i16gjjc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALodu_NmBVQazUdb9gfNuEauC3aaB_SWeZH0NQCZPIzDBw-PKwJmk9KJRaN-A5kopK7A1HQqUVQyCjAb2P89IKYEDBS22clzAto50knKrqJeNV5OiczEKbZm9Djdn4ChA4FXPyYhsLQCJUPK92j1JCSKZZWkOL3LyFhjhkQ3WglecRJc823SxmIAkQ7Dar5JmH5CObGZve1RR8cf3zAQJ8fmaLxVGYMAsyQdwl2cyTvh4ADZHdH0dktQ-4aqRvWAiJyFtUQy0t9d9DyCY4_pvUHv9_Jgkg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Another sanctuary spot in NYC.  Everyone in the community knows about this place.  You can usually find other parkour people by the picnic tables around the wooden fence by the Giant Rock to the LEFT of the playground area.  Be mindful of children.  Better to go here in the fall and winter",
+                "gx_media_links": "https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/no9nfh6obi0r1v3tga9i16gjjc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALodu_NmBVQazUdb9gfNuEauC3aaB_SWeZH0NQCZPIzDBw-PKwJmk9KJRaN-A5kopK7A1HQqUVQyCjAb2P89IKYEDBS22clzAto50knKrqJeNV5OiczEKbZm9Djdn4ChA4FXPyYhsLQCJUPK92j1JCSKZZWkOL3LyFhjhkQ3WglecRJc823SxmIAkQ7Dar5JmH5CObGZve1RR8cf3zAQJ8fmaLxVGYMAsyQdwl2cyTvh4ADZHdH0dktQ-4aqRvWAiJyFtUQy0t9d9DyCY4_pvUHv9_Jgkg?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9887115,
+                    40.7782565,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sanctuary Jam Meetup Spot",
+                "styleUrl": "#icon-seq-0-14",
+                "styleHash": "6141e4f1",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-14-normal",
+                    "highlight": "#icon-seq-0-14-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=O|00FF05|000000",
+                "description": "<img src=\"https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/9bldt5rvbtr9bpikjtmea15oq0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpKyfrB84yOsDHB-iwdqeZgBWnBUkCO6IxXW-lRzLN530NV_x7-4PlxIop_63RviKmWwSXqN3qV7j0K3Qok7C9oVthahpnzl_qFeGb9P8QufOlCkonklBadiNsNW-jhFU28g9ZtNN3JiA2YsO8M_wdV875NQx6pEI0FzcY0UoulmAFnFZeVPAFVf0KHY1xP8HxR6wByoPtKk4lEqJSWHEtPa28Ou41M3NQ0riNZPM6zzy-Cgcp0MTRd4qW82NXJJh3fkqZgaScEF4jm6uJaDqDqH7Rxvw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>We meet here for the sanctuary jams before walking to the actual spot inside Riverside.  If you come here and are late you might as well just walk to Sanctuary",
+                "gx_media_links": "https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/9bldt5rvbtr9bpikjtmea15oq0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpKyfrB84yOsDHB-iwdqeZgBWnBUkCO6IxXW-lRzLN530NV_x7-4PlxIop_63RviKmWwSXqN3qV7j0K3Qok7C9oVthahpnzl_qFeGb9P8QufOlCkonklBadiNsNW-jhFU28g9ZtNN3JiA2YsO8M_wdV875NQx6pEI0FzcY0UoulmAFnFZeVPAFVf0KHY1xP8HxR6wByoPtKk4lEqJSWHEtPa28Ou41M3NQ0riNZPM6zzy-Cgcp0MTRd4qW82NXJJh3fkqZgaScEF4jm6uJaDqDqH7Rxvw?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9911269,
+                    40.7769759,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SANCTUARY",
+                "styleUrl": "#icon-seq-0-15",
+                "styleHash": "-2d36ccf",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-15-normal",
+                    "highlight": "#icon-seq-0-15-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=P|00FF29|000000",
+                "description": "<img src=\"https://doc-0s-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/altbbkmiprdneo9vpcs1i0p27k/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpmr22Kk1HbGRa7MiISNLfoC0wX686WJvvnj5abLc_GsZCnKUyEUO_TU_TFMfhz_i0rPx41xRliEh_AIOUAnST0-WmgRtrgsUEA-C-7OCRu-F5tea6mcOgPSp8VKQj1NlcL3qdsx_8ygGDIhezPA_ULn6UnquBGy7GHjTQCjzra2grXdtxmAkjsd2Eou-XYS5paQfnjyJYi8kNYuve-a6AR3HqWvpxwTLHMVAofFmZxc-1mTGQKwE4tdnNUPyXcOZiFl17JP4JAKrrlfuuXOuk1ujc0Wg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This spot has red awnings and wooden picnic tables and benches.  Surrounded by a beautiful view of the hudson and Jersey",
+                "gx_media_links": "https://doc-0s-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/altbbkmiprdneo9vpcs1i0p27k/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpmr22Kk1HbGRa7MiISNLfoC0wX686WJvvnj5abLc_GsZCnKUyEUO_TU_TFMfhz_i0rPx41xRliEh_AIOUAnST0-WmgRtrgsUEA-C-7OCRu-F5tea6mcOgPSp8VKQj1NlcL3qdsx_8ygGDIhezPA_ULn6UnquBGy7GHjTQCjzra2grXdtxmAkjsd2Eou-XYS5paQfnjyJYi8kNYuve-a6AR3HqWvpxwTLHMVAofFmZxc-1mTGQKwE4tdnNUPyXcOZiFl17JP4JAKrrlfuuXOuk1ujc0Wg?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9708426,
+                    40.7743009,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bethesda Fountain",
+                "styleUrl": "#icon-seq-0-16",
+                "styleHash": "-33fa9797",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-16-normal",
+                    "highlight": "#icon-seq-0-16-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=Q|00FF4E|000000",
+                "description": "<img src=\"https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/370327as9k7b2n1qcbsepl6qjc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqVs3cfx3lh32YJiHD2M9xuR5GoG-SmgMpwC9bfRf3KQRvf6Exd8ZHa12ekTEWyGq7wZh08GDoIIpPVS5lTXlfvZxwHPiHGtI6r3nJgBeo6iK_po8pxqlGh_R-lrEUpzi9kqdfaGT08ee5aLjzyjbm7ZmepKbnd6MoyOa7OQaT_fkeU-ojIqdk7pUY_U3bOl11KzkUroiIiUXDNCvqlDQM0gbdji3PPybh-S_CGHUS6r4jMOSyx32VMffSiDnDrXKSjf7jLoRpi9E7MeKLjK5tuZ9eqlQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Cool climbing and traversing challenges here.  A few jumps here and there, and public bathrooms.  Be mindful of the public eye.",
+                "gx_media_links": "https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/370327as9k7b2n1qcbsepl6qjc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqVs3cfx3lh32YJiHD2M9xuR5GoG-SmgMpwC9bfRf3KQRvf6Exd8ZHa12ekTEWyGq7wZh08GDoIIpPVS5lTXlfvZxwHPiHGtI6r3nJgBeo6iK_po8pxqlGh_R-lrEUpzi9kqdfaGT08ee5aLjzyjbm7ZmepKbnd6MoyOa7OQaT_fkeU-ojIqdk7pUY_U3bOl11KzkUroiIiUXDNCvqlDQM0gbdji3PPybh-S_CGHUS6r4jMOSyx32VMffSiDnDrXKSjf7jLoRpi9E7MeKLjK5tuZ9eqlQ?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9616122,
+                    40.7807557,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancient playground",
+                "styleUrl": "#icon-seq-0-17",
+                "styleHash": "213c0280",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-17-normal",
+                    "highlight": "#icon-seq-0-17-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=R|00FF73|000000",
+                "description": "<img src=\"https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/8ckpkj35dgmihu9umdo79sl0dk/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpP3mceYCLejXHmFAAWPTZcSLqzNZeqWO4kHpKhMLGRJxA6mmv30HiRqeFPSN3vlhIJ-YwQokyiiQA8pGUxVGJmILJXbLoOchP3JU9GEPlRQw-SZhWEXhVG4MkcI1VSRP0pkHeOE1mOOzcdKhKhI3I9wzflhB2M9SP08OWb58cTbp5PYjLQjzt5Qa2sCTdsMb68NcYNcifG6o1a1zRt8c7A9ob5YD5IzgZb2QttsdeHGq9OLhrDqlBJ8CIbxCp76f-xPxfXhtV1rwulGjfOE0cFUwAnrA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Another awesome playground with some great architecture for training!  Be wary of kids and non-approving parents though! ",
+                "gx_media_links": "https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/8ckpkj35dgmihu9umdo79sl0dk/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpP3mceYCLejXHmFAAWPTZcSLqzNZeqWO4kHpKhMLGRJxA6mmv30HiRqeFPSN3vlhIJ-YwQokyiiQA8pGUxVGJmILJXbLoOchP3JU9GEPlRQw-SZhWEXhVG4MkcI1VSRP0pkHeOE1mOOzcdKhKhI3I9wzflhB2M9SP08OWb58cTbp5PYjLQjzt5Qa2sCTdsMb68NcYNcifG6o1a1zRt8c7A9ob5YD5IzgZb2QttsdeHGq9OLhrDqlBJ8CIbxCp76f-xPxfXhtV1rwulGjfOE0cFUwAnrA?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9581753,
+                    40.8005871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Frederick Douglass Sculpture and Water Wall",
+                "styleUrl": "#icon-seq-0-18",
+                "styleHash": "4384759f",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-18-normal",
+                    "highlight": "#icon-seq-0-18-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=S|00FF98|000000",
+                "description": "<img src=\"https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/rqiv3hs3k8kfp1jb863akdeouo/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrQkZBC1d4sF_2iBrwhdaY2_CR5tY2DDEOfj-Prhu4h87M94-RnlLbps4R9MW5te8FKmOCQnyv5Ji3jYsdAKs0GRPW6D_-BDjyYUQBHwMER9wEvKDFCgMwfbRnHeh5bNoGgZ7a0g6Ur51C87Z6wYeVp-mvNE-O-AJ2zqMY84oe_Dr-96FSsFEofhogcx12ihFIfrc1ARsRD-L1jT_cNyWD-sKxV4qNbebzN48lX20wo_YE9lbnGUnWscEhsdLwGck6fgzsyKuLb-MZRrXBfUrGOasj_8g?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Great spot for strides and precisions.  Longer lines and good challenges here.  Check the corners cause skaters sometimes wax the edges up.",
+                "gx_media_links": "https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/rqiv3hs3k8kfp1jb863akdeouo/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrQkZBC1d4sF_2iBrwhdaY2_CR5tY2DDEOfj-Prhu4h87M94-RnlLbps4R9MW5te8FKmOCQnyv5Ji3jYsdAKs0GRPW6D_-BDjyYUQBHwMER9wEvKDFCgMwfbRnHeh5bNoGgZ7a0g6Ur51C87Z6wYeVp-mvNE-O-AJ2zqMY84oe_Dr-96FSsFEofhogcx12ihFIfrc1ARsRD-L1jT_cNyWD-sKxV4qNbebzN48lX20wo_YE9lbnGUnWscEhsdLwGck6fgzsyKuLb-MZRrXBfUrGOasj_8g?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9600253,
+                    40.8093856,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Columbia University Department of Biomedical Engineering",
+                "styleUrl": "#icon-seq-0-19",
+                "styleHash": "717b66ff",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-19-normal",
+                    "highlight": "#icon-seq-0-19-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=T|00FFBC|000000",
+                "description": "<img src=\"https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ovoov2jpnu0jdseo1b1i65kho8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALr5-GJUqQjClcI2ZtawXkdl58z1XQLgIJ-QsytpiZB168S0FXpCCtih-7xzWKPRYjZzjCa6f0oo8Tbw-5sMU4MTO8hU32nOeWHWsMNtDcElK3emO1v232FHm09QY1Qj48FoQls1IyMD1xWDw6GI_6X-cgyJQmvNQcNBsI3yv8o1U8xWrgAHB3ZbkVvPwM9KhN3BtW06IANMGF6Se3qv20iHPU63ZejgpQe8o3oZjD-vSen7LphMa2Bkj2rTTQvX7N1lgvEI2c7FWSeHmx8TmqgnpvjJ1w?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This is the first spot we usually start at during Columbia Jams.  The spot has small steps and multiple black railings.",
+                "gx_media_links": "https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ovoov2jpnu0jdseo1b1i65kho8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALr5-GJUqQjClcI2ZtawXkdl58z1XQLgIJ-QsytpiZB168S0FXpCCtih-7xzWKPRYjZzjCa6f0oo8Tbw-5sMU4MTO8hU32nOeWHWsMNtDcElK3emO1v232FHm09QY1Qj48FoQls1IyMD1xWDw6GI_6X-cgyJQmvNQcNBsI3yv8o1U8xWrgAHB3ZbkVvPwM9KhN3BtW06IANMGF6Se3qv20iHPU63ZejgpQe8o3oZjD-vSen7LphMa2Bkj2rTTQvX7N1lgvEI2c7FWSeHmx8TmqgnpvjJ1w?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9580941,
+                    40.8235038,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Riverbank State Park Tennis Courts",
+                "styleUrl": "#icon-seq-0-20",
+                "styleHash": "-2389d255",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-20-normal",
+                    "highlight": "#icon-seq-0-20-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=U|00FFE1|000000",
+                "description": "<img src=\"https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/jt6k53c0ettbum33blkfhtrlac/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqqhNBFEb7Fw7tKnN5U2lf2NTs3SUW7MQ-fc_jdxmCuMTZEhVeeWL168bLxU7UgwBj4huCF69WlsZMDe-f7iBK1lT2Zs0l9pBv0B_2Bi8jtxivRy77UvxVduzCjXK-FxWYt2M-DxSpZ6o-XZiMUETli3Igu23pVP4y2g5sTMo8WM7icRyCfX71xXnmTi9ze1gHJx_B-d0beeH2sYjJqgHasJbbCrnmVfupUndtoKBydfQ2BsynawVzL49FhoQoRu5UdCYKwzDK66WFoPMcLwl50Wq2z6A?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This whole park is great.  Enter on the 137th street entrance and when you walk in you'll see a playground and walls.  That the first spot we always meet at when we do  a RIVERBANK jam.  ABOVE:  The meetup spot would be in the lower right hand corner",
+                "gx_media_links": "https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/jt6k53c0ettbum33blkfhtrlac/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqqhNBFEb7Fw7tKnN5U2lf2NTs3SUW7MQ-fc_jdxmCuMTZEhVeeWL168bLxU7UgwBj4huCF69WlsZMDe-f7iBK1lT2Zs0l9pBv0B_2Bi8jtxivRy77UvxVduzCjXK-FxWYt2M-DxSpZ6o-XZiMUETli3Igu23pVP4y2g5sTMo8WM7icRyCfX71xXnmTi9ze1gHJx_B-d0beeH2sYjJqgHasJbbCrnmVfupUndtoKBydfQ2BsynawVzL49FhoQoRu5UdCYKwzDK66WFoPMcLwl50Wq2z6A?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9825897,
+                    40.7536881,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bryant Park Café",
+                "styleUrl": "#icon-seq-0-21",
+                "styleHash": "-74c067f9",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-21-normal",
+                    "highlight": "#icon-seq-0-21-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=V|00F8FF|000000",
+                "description": "<img src=\"https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/71trqla4q2kbeiqhk5g38nc8o8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrqiTFAJkNeVFND-wmEbZTkwa7T-g_6cQHJiHznZkJwRokXo1eVHbfd_XZBJi7xAUZnM7TRiDTxFBeBp7qAxC382dkl_jMGmXOeLYMX5bqTNK5XTFZBkJ321ERPlZGueffCaifPznBA_kNdb-o0nzs1gHqH3NsQ4cZvIt9sU2WNYbmQY-sdEWEktimUNbNagf3csFv_RrblH2XzjiRTEkUC-fNc01FhO7r0t1chPkdyFR-G7i9ZT5pOEUOSsCni1hVnLEyygD426jypFAPRPw9m2xky8w?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>A few big jumps to hit here but only in the warm weather.  Security is tight so stay in a small group.  You could either be here for a while or you can get kicked in 10 minutes",
+                "gx_media_links": "https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/71trqla4q2kbeiqhk5g38nc8o8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrqiTFAJkNeVFND-wmEbZTkwa7T-g_6cQHJiHznZkJwRokXo1eVHbfd_XZBJi7xAUZnM7TRiDTxFBeBp7qAxC382dkl_jMGmXOeLYMX5bqTNK5XTFZBkJ321ERPlZGueffCaifPznBA_kNdb-o0nzs1gHqH3NsQ4cZvIt9sU2WNYbmQY-sdEWEktimUNbNagf3csFv_RrblH2XzjiRTEkUC-fNc01FhO7r0t1chPkdyFR-G7i9ZT5pOEUOSsCni1hVnLEyygD426jypFAPRPw9m2xky8w?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0097895,
+                    40.7026773,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New York Vietnam Veterans Memorial Plaza",
+                "styleUrl": "#icon-seq-0-22",
+                "styleHash": "-2f04de54",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-22-normal",
+                    "highlight": "#icon-seq-0-22-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=W|00D3FF|000000",
+                "description": "<img src=\"https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/jqn18ejk2rudmvahifp9nt05uk/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqwEt7jSiS0IMltDD5z2U9WFvYTvbKjGgOANYAVj8Jg0fsgBzqaDeM9EPNUW0-_lMEGBDiT82alZqFTSSVK0Iyj1K7GYJCm0srwz2QGopHlBtMDdMBvhVClutTZATFwf_gecTDi7AGoKSrBh2vDzxNfUianQ4dGrp6Wa_gNG1MHZ8vqIrE9_WCiPf7Au2anVSYjomj6diKjhVjWa5KmHejUuNQQb-JYAShnxu0OrfEYmzZC1v0PsuxjStPR7lYkQ2yolWcCcTe4Mej-HgfClMDyaYqUvw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Fun spot when its dry.  Lots of marble here.  Security could be tight too.  Depends on the time and day.  ",
+                "gx_media_links": "https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/jqn18ejk2rudmvahifp9nt05uk/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqwEt7jSiS0IMltDD5z2U9WFvYTvbKjGgOANYAVj8Jg0fsgBzqaDeM9EPNUW0-_lMEGBDiT82alZqFTSSVK0Iyj1K7GYJCm0srwz2QGopHlBtMDdMBvhVClutTZATFwf_gecTDi7AGoKSrBh2vDzxNfUianQ4dGrp6Wa_gNG1MHZ8vqIrE9_WCiPf7Au2anVSYjomj6diKjhVjWa5KmHejUuNQQb-JYAShnxu0OrfEYmzZC1v0PsuxjStPR7lYkQ2yolWcCcTe4Mej-HgfClMDyaYqUvw?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0095121,
+                    40.7040318,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Water Street Courtyard",
+                "styleUrl": "#icon-seq-0-23",
+                "styleHash": "4cb66b78",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-23-normal",
+                    "highlight": "#icon-seq-0-23-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=X|00AFFF|000000",
+                "description": "<img src=\"https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/6g4ov3sbk6c70hit6g9et3srec/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpoo9EwiadNswTi4hw8PQIw5NoGw75RZJX3nzuYdI5IslgVd7JEG-ue5774BxdvXskAyLMIo4Mmip3A5A0wzm8o2riyHbRoHNkP49wgu1JtDBMMTsa5ImXr4VXoipFa5Oy7FCop9_vj7L7_-En8PkP3Z--mqJ8VdBSXU_T1dNEh4TlqC7kewfjhEjkEZCgPyuTxFBw2YmIMKNAKwneud3eK9hl2CxVgjpTJ2cLGvezyK9kny10s3i4g6FwEFC86yOWo-HWx9-8IZd48FtkUX5t3k9sY4g?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Small spot here with some good height challenges.  Security is tight so heads up",
+                "gx_media_links": "https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/6g4ov3sbk6c70hit6g9et3srec/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpoo9EwiadNswTi4hw8PQIw5NoGw75RZJX3nzuYdI5IslgVd7JEG-ue5774BxdvXskAyLMIo4Mmip3A5A0wzm8o2riyHbRoHNkP49wgu1JtDBMMTsa5ImXr4VXoipFa5Oy7FCop9_vj7L7_-En8PkP3Z--mqJ8VdBSXU_T1dNEh4TlqC7kewfjhEjkEZCgPyuTxFBw2YmIMKNAKwneud3eK9hl2CxVgjpTJ2cLGvezyK9kny10s3i4g6FwEFC86yOWo-HWx9-8IZd48FtkUX5t3k9sY4g?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9478302,
+                    40.7886012,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sunshine Playground",
+                "styleUrl": "#icon-seq-0-24",
+                "styleHash": "1c6a39d6",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-24-normal",
+                    "highlight": "#icon-seq-0-24-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=Y|008AFF|000000",
+                "description": "Nice quiet place inside the city to train rail stuff.  Also walking distance from another awesome secret spot inside the housing projects."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9460027,
+                    40.7875328,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Semi-Circle",
+                "styleUrl": "#icon-seq-0-25",
+                "styleHash": "-67da7c5e",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-25-normal",
+                    "highlight": "#icon-seq-0-25-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=Z|0065FF|000000",
+                "description": "<img src=\"https://doc-0k-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/mf1o5g2q6cj8n6jk8n3g63bflo/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALo9nqm0BbmJ0tXeCOx4ozg8vJZlHdbk9sTlU7gZ0CxXn4rRn_Uijgt5nnmuFH_Bo-8ojS8Eth9775--23etHn6rIc5XPl8QGz9OXR0R2k-Q4cac6ijDmdhha4d2uwF5VvwMYybrU4XMyfKVjUWYz6kvLD97NsYDcB0lFtZ0AZ9X6aQgyUgYa4lQqVsjxSu76j0vpoLMV2K8vLbeIZxNQhxaBWHxy3wGHuhXjkq36B_ssRI7l2UufjO6iPuE1ltG7a7cmkTNkCKwNYbgHFM5GPJYG6fHxg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This spot is inside the housing projects but you can't miss it.  It's a light blue wall circled around another light blue platform.  Surrounded by benches and chess tables.  Stay out of the grass though",
+                "gx_media_links": "https://doc-0k-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/mf1o5g2q6cj8n6jk8n3g63bflo/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALo9nqm0BbmJ0tXeCOx4ozg8vJZlHdbk9sTlU7gZ0CxXn4rRn_Uijgt5nnmuFH_Bo-8ojS8Eth9775--23etHn6rIc5XPl8QGz9OXR0R2k-Q4cac6ijDmdhha4d2uwF5VvwMYybrU4XMyfKVjUWYz6kvLD97NsYDcB0lFtZ0AZ9X6aQgyUgYa4lQqVsjxSu76j0vpoLMV2K8vLbeIZxNQhxaBWHxy3wGHuhXjkq36B_ssRI7l2UufjO6iPuE1ltG7a7cmkTNkCKwNYbgHFM5GPJYG6fHxg?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9756582,
+                    40.7361601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asser Levy Recreation Center",
+                "styleUrl": "#icon-seq-0-26",
+                "styleHash": "5cf7facd",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-26-normal",
+                    "highlight": "#icon-seq-0-26-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=a|0040FF|000000",
+                "description": "<img src=\"https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/q60fndglj3593hijfjmn5mknis/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALruXVqAjuAdl2eVuX_31qRrQCNWmuOTJP3rsESNnWMDPUjq4W8bkw8WL6_5K50pC72Gtw9UKK9Q21U8vGZagS96b04hIy2cXf0Ki5iDBoqBg9tOWHOKV_fPJc-PNDi79U2Y9VWT59zXtSaruo8oRNCzsiSVvH4Rmk8qNA1AmQRVKGpZVhr8yFj3E0T5pUpT74X9FdtxKuUrzXe3zzAT_BBUDuPuMwrlIts9yyQiR9PoGUE3KnTUMWiqNV5b_gLGBYcu6TRlqE0cPqHL5APSfNXFDkBLzw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Right outside the Rec center there is a public workout park that has benches and rails you can train on.  Really close walk to the 351 spot",
+                "gx_media_links": "https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/q60fndglj3593hijfjmn5mknis/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALruXVqAjuAdl2eVuX_31qRrQCNWmuOTJP3rsESNnWMDPUjq4W8bkw8WL6_5K50pC72Gtw9UKK9Q21U8vGZagS96b04hIy2cXf0Ki5iDBoqBg9tOWHOKV_fPJc-PNDi79U2Y9VWT59zXtSaruo8oRNCzsiSVvH4Rmk8qNA1AmQRVKGpZVhr8yFj3E0T5pUpT74X9FdtxKuUrzXe3zzAT_BBUDuPuMwrlIts9yyQiR9PoGUE3KnTUMWiqNV5b_gLGBYcu6TRlqE0cPqHL5APSfNXFDkBLzw?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.072271,
+                    40.6443094,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ferry Terminal to Manhattan",
+                "styleUrl": "#icon-seq-0-27",
+                "styleHash": "-274cbb67",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-27-normal",
+                    "highlight": "#icon-seq-0-27-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=b|001CFF|000000",
+                "description": "Meet up here to leave Staten Island after jams are over and get back into Manhattan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.013066,
+                    40.7010305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Meet up for Staten Island Ferry",
+                "styleUrl": "#icon-seq-0-28",
+                "styleHash": "-45c6e5c",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-28-normal",
+                    "highlight": "#icon-seq-0-28-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=c|0900FF|000000",
+                "description": "Meetup point before jams in Staten Island.  IF you miss the meetup just take the ferry across and link up with the group then."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9852062,
+                    40.7167324,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dollar Pizza",
+                "styleUrl": "#icon-seq-0-29",
+                "styleHash": "79473bdc",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-29-normal",
+                    "highlight": "#icon-seq-0-29-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=d|2E00FF|000000",
+                "description": "Just like it says.  $1 a slice.  "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.988457,
+                    40.728717,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "2 Bros Pizza",
+                "styleUrl": "#icon-seq-0-30",
+                "styleHash": "-d2eaff8",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-30-normal",
+                    "highlight": "#icon-seq-0-30-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=e|5300FF|000000",
+                "description": "$1 a slice.  Close to Thompkins Square Park."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005301,
+                    40.7560348,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Highline Playground",
+                "styleUrl": "#icon-seq-0-31",
+                "styleHash": "3f630f48",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-31-normal",
+                    "highlight": "#icon-seq-0-31-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=f|7700FF|000000",
+                "description": "<img src=\"https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ngvam4r4uht3fqnik955d153cc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALreSf5ZbS0pS3Ckf4bm17gMxLikkboWtXjP10UMJI6Asm11waz-3bhWnAkzYdIIo_lWEAnxiE2Bow86axR7rWo5kPDJoeUr6o8m518a3l3pILoh9WoxKo20Rqs6BE52HWDz9DfNNL0sj-eIPLJcqfQwUwJBQraTMbj0SQQZ2L9Ipai2djtXL_BYSy1N_S1DJsDsTwQrcqpemFzzYtZZ1qJyKf9aqt9p7roJKmr4hOQwocSLc3WyFzJ9BG1ExysArjjSXFh4fnYmBrKPN6g7gAVbrSmiug?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This is a small but pretty awesome spot.  Good for strides and precisions.  Awesome backdrop for videos.  Watch out for security cause this is a childrens playground.",
+                "gx_media_links": "https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/ngvam4r4uht3fqnik955d153cc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALreSf5ZbS0pS3Ckf4bm17gMxLikkboWtXjP10UMJI6Asm11waz-3bhWnAkzYdIIo_lWEAnxiE2Bow86axR7rWo5kPDJoeUr6o8m518a3l3pILoh9WoxKo20Rqs6BE52HWDz9DfNNL0sj-eIPLJcqfQwUwJBQraTMbj0SQQZ2L9Ipai2djtXL_BYSy1N_S1DJsDsTwQrcqpemFzzYtZZ1qJyKf9aqt9p7roJKmr4hOQwocSLc3WyFzJ9BG1ExysArjjSXFh4fnYmBrKPN6g7gAVbrSmiug?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9578152,
+                    40.7475496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pepsi Sign",
+                "styleUrl": "#icon-seq-0-32",
+                "styleHash": "-42f94680",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-32-normal",
+                    "highlight": "#icon-seq-0-32-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=g|9C00FF|000000",
+                "description": "<img src=\"https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/h4nl9fauk2m20eg71pk30ritls/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALooR8Yy2aMgbPt8Bz3A-yX7UmPQ-7bzytiSXkoEdjhFoyvh58Jn_YdkFsqaoB5bXrBhGVlsmR6Eik_lANhk8b0SGqcw-f_x2cQvvO-jgywOW_2z_88WS796vKrMZY6npvD5UQsl--DiGp11fFeQSmkJSPhH4evbK3RSQ7KbIIWG_ditNO-vroJbXblX1pLYY3GYsRy_z2OuI4_GUa9gNI200j0SgaWeAirVBhg4H_M5H3x-veeLMMCL9eyJJ-EzKkAeVkS_1llXYsLKfU6RtQy6zBzlCQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Good place to start the LIC spot route.  Some walls and awesome backdrop for filming.",
+                "gx_media_links": "https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/h4nl9fauk2m20eg71pk30ritls/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALooR8Yy2aMgbPt8Bz3A-yX7UmPQ-7bzytiSXkoEdjhFoyvh58Jn_YdkFsqaoB5bXrBhGVlsmR6Eik_lANhk8b0SGqcw-f_x2cQvvO-jgywOW_2z_88WS796vKrMZY6npvD5UQsl--DiGp11fFeQSmkJSPhH4evbK3RSQ7KbIIWG_ditNO-vroJbXblX1pLYY3GYsRy_z2OuI4_GUa9gNI200j0SgaWeAirVBhg4H_M5H3x-veeLMMCL9eyJJ-EzKkAeVkS_1llXYsLKfU6RtQy6zBzlCQ?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.958357,
+                    40.7467042,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pier Spot",
+                "styleUrl": "#icon-seq-0-33",
+                "styleHash": "33d2a69e",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-33-normal",
+                    "highlight": "#icon-seq-0-33-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=h|C100FF|000000",
+                "description": "<img src=\"https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/fuihu3ph8j0tqs0ms8l0v36ka8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALr2OzYynxTCk0NoQWP_odzzFZM5gkzSzJnPRT_gft9X7UyfR4oK8mG6sUN01g9EvpJjjKr_Hb6CEXYM--BMiWnWDmLJWhk99OXGk745KQTwfFMkeCTqMsxghZ9PAmcweJVpBkEJSBvVw6sBjbqc0gNUrCN0uwhXckUya2nFIhBQn1EtXzOguZVIbodizBQgkB1PVrLUov7J0TTt8EDPIVq6jWFgY2a8NL1l-QNpILoJXBolBw8qxBIHx7zZiadG__A2487CXVqwnyFzTkprzs6z3wW2pA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This area has a few more ledges and varied areas to train and is right next to the turf field for acro training!<br><br><img src=\"https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/u77liuu2o6in3232csr11pagik/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqPIKIpk1aTujrrU5DCWqzWbjfYw-55l1xgZGiXQWCmT4HbhuvkGFIWAaA5xqOWpfWUAYfdtv-hYkBXoy8SZYNX7ODPj6E8st3TJH2DjSY-Mpolu7k_NkK0Nr9Rov9f4w57kEkZS4AtJYASblUXSdHCe0e6tFzbfwMNuOwvejk3PEEt4lb4w1JPqM5EZuXqssD3knXUFlQ9FJ25FQUaf9IuUjfdPc-NfKisi1PmmJoGKLYijUfkaIfPudA4ORKMJqtuqUCeFoaEAxWe2pa77vEKJWBbNA?session=0&fife\" height=\"200\" width=\"auto\" />",
+                "gx_media_links": "https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/fuihu3ph8j0tqs0ms8l0v36ka8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALr2OzYynxTCk0NoQWP_odzzFZM5gkzSzJnPRT_gft9X7UyfR4oK8mG6sUN01g9EvpJjjKr_Hb6CEXYM--BMiWnWDmLJWhk99OXGk745KQTwfFMkeCTqMsxghZ9PAmcweJVpBkEJSBvVw6sBjbqc0gNUrCN0uwhXckUya2nFIhBQn1EtXzOguZVIbodizBQgkB1PVrLUov7J0TTt8EDPIVq6jWFgY2a8NL1l-QNpILoJXBolBw8qxBIHx7zZiadG__A2487CXVqwnyFzTkprzs6z3wW2pA?session=0&fife https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/u77liuu2o6in3232csr11pagik/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqPIKIpk1aTujrrU5DCWqzWbjfYw-55l1xgZGiXQWCmT4HbhuvkGFIWAaA5xqOWpfWUAYfdtv-hYkBXoy8SZYNX7ODPj6E8st3TJH2DjSY-Mpolu7k_NkK0Nr9Rov9f4w57kEkZS4AtJYASblUXSdHCe0e6tFzbfwMNuOwvejk3PEEt4lb4w1JPqM5EZuXqssD3knXUFlQ9FJ25FQUaf9IuUjfdPc-NfKisi1PmmJoGKLYijUfkaIfPudA4ORKMJqtuqUCeFoaEAxWe2pa77vEKJWBbNA?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9600843,
+                    40.7431684,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Train Tracks",
+                "styleUrl": "#icon-seq-0-34",
+                "styleHash": "6686a33d",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-34-normal",
+                    "highlight": "#icon-seq-0-34-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=i|E600FF|000000",
+                "description": "<img src=\"https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/033ug1o6js271jnmi5ndipqlv0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALoya1dO8lbIIA1VQZg1CzPxAcv-yQAc1l_H8h42pRbsjxQ_g7A_4ozBaPaXtnitQhsUVlTopDLxfa4tm4DkmH_u2YQ91nSg9Eu0FzX7v5TeGB4tUuPmlZ5McnV9MohZMd0y5x3hjU2alo-4QMmsAzfgy4przCwb9IJYv7wUL7d4FREqLN5wsmSBAV4YDGa1itiiM-TDpSFKthS18rAWQm-jNM1VHgWoYGrhjG8cCavniD4zlpcPMeAUouzzCJCPT9Sxx1K0HtV1IMF4JJ7-MqazgMVS3g?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This spot is in between a dog park and a child playground with old train tracks in between perfect for precision training.",
+                "gx_media_links": "https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/033ug1o6js271jnmi5ndipqlv0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALoya1dO8lbIIA1VQZg1CzPxAcv-yQAc1l_H8h42pRbsjxQ_g7A_4ozBaPaXtnitQhsUVlTopDLxfa4tm4DkmH_u2YQ91nSg9Eu0FzX7v5TeGB4tUuPmlZ5McnV9MohZMd0y5x3hjU2alo-4QMmsAzfgy4przCwb9IJYv7wUL7d4FREqLN5wsmSBAV4YDGa1itiiM-TDpSFKthS18rAWQm-jNM1VHgWoYGrhjG8cCavniD4zlpcPMeAUouzzCJCPT9Sxx1K0HtV1IMF4JJ7-MqazgMVS3g?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0014373,
+                    40.7099369,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Banks Skatepark",
+                "styleUrl": "#icon-seq-0-35",
+                "styleHash": "2bf5fcc2",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-35-normal",
+                    "highlight": "#icon-seq-0-35-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=j|FF00F4|000000",
+                "description": "<img src=\"https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/qjacve7gcj6oiqj4hdhv0dtlk0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrVOb2uj3qo4uGmhhTo0BF_doIJbYvG9EeEQ3S9eCAm5WirSnQ8X9HuDRjtKdzHZL5ouqdZeFo0uoUqgNjmHnJQLUGsKckarN6muPeX0c7oVs8evlrHfHKSmnXcaJ9X_z47B6bIQw6hE4Quw-ZnhIeagI5pLTyXrYMJiH3bpXekJxmwIe0IB54IcikmyAPCKnluVwObDL2AuYwW1aT50PiZzBan-BYF94Jc1zubsETVlk5FYgULYJQqIS5gcxxWI9mbOKi9QAkM8HL7FwjOP24nBPQXRg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This spot was in the videogame Tony Hawk Pro Skater 2.  Awesome old NYC spot with graffiti, rails, dirty ledges, and skaters.  One of the coolest and chillest spots in the city",
+                "gx_media_links": "https://doc-04-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/qjacve7gcj6oiqj4hdhv0dtlk0/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrVOb2uj3qo4uGmhhTo0BF_doIJbYvG9EeEQ3S9eCAm5WirSnQ8X9HuDRjtKdzHZL5ouqdZeFo0uoUqgNjmHnJQLUGsKckarN6muPeX0c7oVs8evlrHfHKSmnXcaJ9X_z47B6bIQw6hE4Quw-ZnhIeagI5pLTyXrYMJiH3bpXekJxmwIe0IB54IcikmyAPCKnluVwObDL2AuYwW1aT50PiZzBan-BYF94Jc1zubsETVlk5FYgULYJQqIS5gcxxWI9mbOKi9QAkM8HL7FwjOP24nBPQXRg?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9936544,
+                    40.7112051,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LES Skatepark",
+                "styleUrl": "#icon-seq-0-36",
+                "styleHash": "-39c4c3d1",
+                "styleMapHash": {
+                    "normal": "#icon-seq-0-36-normal",
+                    "highlight": "#icon-seq-0-36-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=k|FF00CF|000000",
+                "description": "<img src=\"https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/16rnsa911klce8fa5ida9qrho8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpuv9Odk4BBDQYEjfu-7351MyAGQmFsJZtY6zC27y2gDuXISfBOORm7RwCIuoY0utiU3ygjdqR2y9U5f4WBS7KFxB07goo6TqQuyLsxoMJ1wTjjuNF22t94ZF6zf-U9ggI1Qr_wY1I4CSpyq1ekM7hILPOZk6IZcHijpG-LnQOqzeZ2WYyObEGGxzxElrXR5PuGXS1EMXgMu4HLqEwL9WEw_1HOD7J8F9GA0MBwh4wftiV6sfHNdLpfOIgdWkwT7cO6MdxNM2-Aym4W_KX3-jiLOrpR9w?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>They film a lot of  movie and tv show scenes here so maybe you'll get lucky and get discovered.  Awesome skate park and surrounding areas for training.",
+                "gx_media_links": "https://doc-0c-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/16rnsa911klce8fa5ida9qrho8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpuv9Odk4BBDQYEjfu-7351MyAGQmFsJZtY6zC27y2gDuXISfBOORm7RwCIuoY0utiU3ygjdqR2y9U5f4WBS7KFxB07goo6TqQuyLsxoMJ1wTjjuNF22t94ZF6zf-U9ggI1Qr_wY1I4CSpyq1ekM7hILPOZk6IZcHijpG-LnQOqzeZ2WYyObEGGxzxElrXR5PuGXS1EMXgMu4HLqEwL9WEw_1HOD7J8F9GA0MBwh4wftiV6sfHNdLpfOIgdWkwT7cO6MdxNM2-Aym4W_KX3-jiLOrpR9w?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8929164,
+                    40.8505745,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "STRIDE",
+                "styleUrl": "#icon-seq-1-0-labelson",
+                "styleHash": "5122216d",
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=A|FF0000|000000",
+                "description": "<img src=\"https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/itiafjtm8soh530agqilfmc644/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqLK8C0J2ccHudpxhWEndm2w_MjbXKfyGNWp_A5lTwVwu6AWCtQrf7LIMah7ss6PDC5Sda78xOzJiKB8IVpfuhC0yxSPNFe9tF0X3YBoAkm6-mlqDcckk2YjbF46U-RbgKZ9RTEJracrtqEeIuKboi5OzuP3q7sr_IuqRUUbPaLeIk9X6oXh_Fqw-9mYSPJudR17pgKcwp2cz2YAsPHC97rX-q-_0k2sKvCi8pspX3SrQ97pIlGNwzoQzxAv2kpYi3xrTNpUz3ljWKZKLwHj-yQDVNXng?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>This spot is way up in the Bronx but so nice for training.  Many different things to work here.  Don't go by yourself and don't be loud.  ",
+                "gx_media_links": "https://doc-0g-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/itiafjtm8soh530agqilfmc644/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALqLK8C0J2ccHudpxhWEndm2w_MjbXKfyGNWp_A5lTwVwu6AWCtQrf7LIMah7ss6PDC5Sda78xOzJiKB8IVpfuhC0yxSPNFe9tF0X3YBoAkm6-mlqDcckk2YjbF46U-RbgKZ9RTEJracrtqEeIuKboi5OzuP3q7sr_IuqRUUbPaLeIk9X6oXh_Fqw-9mYSPJudR17pgKcwp2cz2YAsPHC97rX-q-_0k2sKvCi8pspX3SrQ97pIlGNwzoQzxAv2kpYi3xrTNpUz3ljWKZKLwHj-yQDVNXng?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.922643,
+                    40.826617,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lou Gehrig Plaza",
+                "styleUrl": "#icon-seq-1-1-labelson",
+                "styleHash": "3654eb4f",
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=B|EEFF00|000000",
+                "description": "<img src=\"https://doc-0k-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/84i1i54n8naggh77qsrj6pecg4/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALq9uA1GCzZifkVdQkUaD-lYUAhhEj5oTRz3wxGf_SKWnucpD7WBQrCPErT4wpD5Nrb6xYF_mKnmYPxizVqNBWOPTpWgs_XCEI_kL-t4aZfaqxZPsc1kUWgGvuLBx5RhbNklku5wxzBKkIo_uQkDS1RRpIjqtI9926ScOQvasGOPC4mJH4FMLZQdsph1hfnQMnEbzzZEAEmJ8y7tXXSXz_uOa5p9gttoB9uC4l4LuvjzPwPUTdURY6z9R8Lb7lKdPN_jM7c1n2FINzaU8yr95cuL-wuaZg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>One of the first meetup spots for Bronx Jams.  Right across the street from the courthouses, skaters also use this spot so check for wax on edges",
+                "gx_media_links": "https://doc-0k-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/84i1i54n8naggh77qsrj6pecg4/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALq9uA1GCzZifkVdQkUaD-lYUAhhEj5oTRz3wxGf_SKWnucpD7WBQrCPErT4wpD5Nrb6xYF_mKnmYPxizVqNBWOPTpWgs_XCEI_kL-t4aZfaqxZPsc1kUWgGvuLBx5RhbNklku5wxzBKkIo_uQkDS1RRpIjqtI9926ScOQvasGOPC4mJH4FMLZQdsph1hfnQMnEbzzZEAEmJ8y7tXXSXz_uOa5p9gttoB9uC4l4LuvjzPwPUTdURY6z9R8Lb7lKdPN_jM7c1n2FINzaU8yr95cuL-wuaZg?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.946732,
+                    40.689612,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Herbert Von King Park",
+                "styleUrl": "#icon-seq-2-0",
+                "styleHash": "-413b0061",
+                "styleMapHash": {
+                    "normal": "#icon-seq-2-0-normal",
+                    "highlight": "#icon-seq-2-0-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=A|FF0000|000000",
+                "description": "<img src=\"https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/gs7tum0obpscqqh7qlm7gah390/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpz2cyvDn6uy3Kt56kms-B9TVnhhN8jVyDBBChJ5UuDRNjsxLpYs1Hk10214xQVLxqgJAVfRFDN0JB3H14z92hOKFidON8Wkfi3g1Yz8mq9ehQxleITauhK5AdjgNts_f5Scv9Ta1vqke88P1Rb1p5emYTyefkLH0VK2LMxB7g57t1OSjhqeRJFxQZ8DY38156ym7KD9hk1qCqPXGMlrzYrYR94IRGz0eAnoYeBZpl0fExlqafU4ZLyDCoEPG2Tup8Sv2fDZBmB7_jcgzKRwKDy_A7kfw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Another sleeper spot in deep Brooklyn.  Go to the area where the bathrooms are and thats the best place to meetup and start the jammage right by the rainbow wall and stage",
+                "gx_media_links": "https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/gs7tum0obpscqqh7qlm7gah390/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpz2cyvDn6uy3Kt56kms-B9TVnhhN8jVyDBBChJ5UuDRNjsxLpYs1Hk10214xQVLxqgJAVfRFDN0JB3H14z92hOKFidON8Wkfi3g1Yz8mq9ehQxleITauhK5AdjgNts_f5Scv9Ta1vqke88P1Rb1p5emYTyefkLH0VK2LMxB7g57t1OSjhqeRJFxQZ8DY38156ym7KD9hk1qCqPXGMlrzYrYR94IRGz0eAnoYeBZpl0fExlqafU4ZLyDCoEPG2Tup8Sv2fDZBmB7_jcgzKRwKDy_A7kfw?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9515498,
+                    40.6871857,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grace Havenwaller Learning Center",
+                "styleUrl": "#icon-seq-2-1",
+                "styleHash": "725455c1",
+                "styleMapHash": {
+                    "normal": "#icon-seq-2-1-normal",
+                    "highlight": "#icon-seq-2-1-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=B|EEFF00|000000",
+                "description": "<img src=\"https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/fadu44a0jcifj0955ia8n7uivs/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpaJvkFhiiPSSOqm9bBVI6vSTsmBzlu3wiIaxQGOsuS00L1eHn9qtxqrL22NDW_2vs2CLiXY1XaUx_WAAKiQPhTy_8pb9fOKvrUmzeixFTXTEcJJXetUEr5pKVM339t-SwPjpSN3PvW2iYU7Lb3-dQtHSdYsoU8PeEkBiMNiJhTKaCvuubD0MERYY6e9anz5w59UySy3BFq0BvOTy2LRBOKPg_5xWd6RAkSufEeQoUPD91D4Q3D1Uy6KpEDM8-WeCEBuciSk3IGCvxikmiZJVJtbRPHqw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Another one of the legit best spots in the city.  Security is low and level of jumps range from beginner to advanced all in one spot.",
+                "gx_media_links": "https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/fadu44a0jcifj0955ia8n7uivs/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpaJvkFhiiPSSOqm9bBVI6vSTsmBzlu3wiIaxQGOsuS00L1eHn9qtxqrL22NDW_2vs2CLiXY1XaUx_WAAKiQPhTy_8pb9fOKvrUmzeixFTXTEcJJXetUEr5pKVM339t-SwPjpSN3PvW2iYU7Lb3-dQtHSdYsoU8PeEkBiMNiJhTKaCvuubD0MERYY6e9anz5w59UySy3BFq0BvOTy2LRBOKPg_5xWd6RAkSufEeQoUPD91D4Q3D1Uy6KpEDM8-WeCEBuciSk3IGCvxikmiZJVJtbRPHqw?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9985952,
+                    40.6993174,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Bridge Park - Pier 2",
+                "styleUrl": "#icon-seq-2-2",
+                "styleHash": "-185d9f1d",
+                "styleMapHash": {
+                    "normal": "#icon-seq-2-2-normal",
+                    "highlight": "#icon-seq-2-2-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=C|00FF22|000000",
+                "description": "<img src=\"https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/cb0l35pb2j4ukn39h6vo3h5toc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrdQ5gUZromr61Tg5Uom_6VXLMXa6k_6GCwQHgHSU75g-l_KqZ4OpmarqAAzd_mv3K16nKZqCKmUaqY0luNQVmXHp7nsxxexOqHv1hzSsJRgKFrgWm85qQp2DRSAa1zB5Czad5ylVgj6hoH7ZmOLBVW1XfTAqVmeTbvdvn2jFvvSq7rtbjbTEhZW-2ytqGzy3CKy3enuOWLv_23BBIcJHjxpghpF-83SiqBMJ4UB4pfIzH3_u59ltBaqzoQ7oDppna9ss2dst4-SVkf219y2aqes6Hhng?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Cool spot with a sick backdrop for photos.  Great turf fields for acro training and scattered pk spots around.  Security level is medium here",
+                "gx_media_links": "https://doc-00-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/cb0l35pb2j4ukn39h6vo3h5toc/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrdQ5gUZromr61Tg5Uom_6VXLMXa6k_6GCwQHgHSU75g-l_KqZ4OpmarqAAzd_mv3K16nKZqCKmUaqY0luNQVmXHp7nsxxexOqHv1hzSsJRgKFrgWm85qQp2DRSAa1zB5Czad5ylVgj6hoH7ZmOLBVW1XfTAqVmeTbvdvn2jFvvSq7rtbjbTEhZW-2ytqGzy3CKy3enuOWLv_23BBIcJHjxpghpF-83SiqBMJ4UB4pfIzH3_u59ltBaqzoQ7oDppna9ss2dst4-SVkf219y2aqes6Hhng?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9354629,
+                    40.7116634,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Zoo NY",
+                "styleUrl": "#icon-seq-2-3",
+                "styleHash": "-7636f07b",
+                "styleMapHash": {
+                    "normal": "#icon-seq-2-3-normal",
+                    "highlight": "#icon-seq-2-3-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=D|00CCFF|000000",
+                "description": "<img src=\"https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/i33uima64qbnsmhbdslf2ssj28/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALorLtd7e_eMxDKPBaYz5b6jnzImG3Gv-9JAKzVz7fouRp15ogF-PaxxXVlzoAjiSPDpaWk1IkrEYHHMwuxP7tnzjL2N0mFSBPULigrhjrwnXDYq7rNIpaFfRMA0VK7FzehaerepJLOr_QxtfSYKbhF8Tddt0F1hk8jDw8yAxsSZ5VTZGLzDSab_M3XCO8Gi-CpyU-V42DQi_8y8UVpujPSwSn1931T4upYqRnvRgXO0IzafnHkHhB1LFa8fOzw-xXwUW0DD5fMbhPFdag1oiyNyaWhxPg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>NYC's premier Parkour/Freerunning Indoor Gym.  Must visit at least once.  2nd floor is great.",
+                "gx_media_links": "https://doc-08-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/i33uima64qbnsmhbdslf2ssj28/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALorLtd7e_eMxDKPBaYz5b6jnzImG3Gv-9JAKzVz7fouRp15ogF-PaxxXVlzoAjiSPDpaWk1IkrEYHHMwuxP7tnzjL2N0mFSBPULigrhjrwnXDYq7rNIpaFfRMA0VK7FzehaerepJLOr_QxtfSYKbhF8Tddt0F1hk8jDw8yAxsSZ5VTZGLzDSab_M3XCO8Gi-CpyU-V42DQi_8y8UVpujPSwSn1931T4upYqRnvRgXO0IzafnHkHhB1LFa8fOzw-xXwUW0DD5fMbhPFdag1oiyNyaWhxPg?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8491824,
+                    40.7411422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Playground For All Children",
+                "styleUrl": "#icon-seq-3-0",
+                "styleHash": "65e27de0",
+                "styleMapHash": {
+                    "normal": "#icon-seq-3-0-normal",
+                    "highlight": "#icon-seq-3-0-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=A|FF0000|000000",
+                "description": "<img src=\"https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/6njhpv6vu25u38fa0lkns9jbl8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrQcA_gEpk74zs9fG4ZGCuAtyIarON-HkcYLAaLM7QTeiPhC_FOpBeuh3dt0Js40arg-cgG9FU98FUJNDpLQVKUGoV3mep8bG-3igz68rXoBwwiuNlLRUeZcu8miiP0zpTaEvKIHtdr2oGCPhTpaX2PP9iqcXGlb14xRE08xG0q2n-3OzjQWJKUJiuBdDR3vg4GNYjxKJzGkETPw-jc-GfmQtZ9Uu7joTmOyFebCqrWdOJArY9ZnA0fwKg_XdnM2mfLhHpRdBcYNTVm7ZbrDD5MyHbcgQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>LITERALLY A HIDDEN GEM.  ONE OF THE MOST AMAZING SPOTS IN QUEENS.  RIGHT BY THE HALL OF SCIENCE IN FLUSHING MEADOW PARK.  WATCH OUT FOR KIDS!!!",
+                "gx_media_links": "https://doc-14-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/6njhpv6vu25u38fa0lkns9jbl8/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALrQcA_gEpk74zs9fG4ZGCuAtyIarON-HkcYLAaLM7QTeiPhC_FOpBeuh3dt0Js40arg-cgG9FU98FUJNDpLQVKUGoV3mep8bG-3igz68rXoBwwiuNlLRUeZcu8miiP0zpTaEvKIHtdr2oGCPhTpaX2PP9iqcXGlb14xRE08xG0q2n-3OzjQWJKUJiuBdDR3vg4GNYjxKJzGkETPw-jc-GfmQtZ9Uu7joTmOyFebCqrWdOJArY9ZnA0fwKg_XdnM2mfLhHpRdBcYNTVm7ZbrDD5MyHbcgQ?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.851407,
+                    40.724354,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Russell Sage Playground",
+                "styleUrl": "#icon-seq-3-1-nodesc",
+                "styleHash": "-3c07ae27",
+                "styleMapHash": {
+                    "normal": "#icon-seq-3-1-nodesc-normal",
+                    "highlight": "#icon-seq-3-1-nodesc-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=B|EEFF00|000000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8722287,
+                    40.7326774,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hoffman Park",
+                "styleUrl": "#icon-seq-3-2",
+                "styleHash": "-714020dc",
+                "styleMapHash": {
+                    "normal": "#icon-seq-3-2-normal",
+                    "highlight": "#icon-seq-3-2-highlight"
+                },
+                "icon": "https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=C|00FF22|000000",
+                "description": "<img src=\"https://doc-0s-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/rm8obrr25lfde8vv02soldutes/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpgX-AnAlj2dagpF25eShAaffw5YruXVyY7hPrnMbYQJ6lPgw94uUSNjCgllOKhjKP7SzciLH4UMBCJWgSp0YR-1fZ_Ijle-Hfp22IkWPHLYkIKeOaBmqxtKqbAlZkD8GcOw1-6VupbUnafd42PDUMohinf5y-DuFYo9lE56hvczXxph3aPlzvPKGaEYJpBoK0AihLR0QBXaoKcO9V_zOOo1kpLxDFdyodq2u0qAuCtts7miUQcoTHqDGvgva4YtisnnL1JBmYHpGKqFgWVb0D-SNcDxQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Some challenges here.  Right across the street from QCM.  Quite area good for small groups and exploring less the ideal public places.",
+                "gx_media_links": "https://doc-0s-88-mymaps.googleusercontent.com/untrusted/hostedimage/q3cig1e8iunopdl6v2tvp9aig0/rm8obrr25lfde8vv02soldutes/1583122849750/t9HRDFRL5DANV0apzyTYuOeEsEfUXXsR/17301954458194496345/5AF2TALpgX-AnAlj2dagpF25eShAaffw5YruXVyY7hPrnMbYQJ6lPgw94uUSNjCgllOKhjKP7SzciLH4UMBCJWgSp0YR-1fZ_Ijle-Hfp22IkWPHLYkIKeOaBmqxtKqbAlZkD8GcOw1-6VupbUnafd42PDUMohinf5y-DuFYo9lE56hvczXxph3aPlzvPKGaEYJpBoK0AihLR0QBXaoKcO9V_zOOo1kpLxDFdyodq2u0qAuCtts7miUQcoTHqDGvgva4YtisnnL1JBmYHpGKqFgWVb0D-SNcDxQ?session=0&fife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -74.00133,
+                        40.70989,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Directions from Brooklyn Banks Skatepark to Brooklyn Banks Skatepark",
+                "styleUrl": "#line-1267FF-5000-nodesc",
+                "styleHash": "4b899179",
+                "styleMapHash": {
+                    "normal": "#line-1267FF-5000-nodesc-normal",
+                    "highlight": "#line-1267FF-5000-nodesc-highlight"
+                },
+                "stroke": "#1267ff",
+                "stroke-opacity": 1,
+                "stroke-width": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0013347,
+                    40.7098917,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Banks Skatepark",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "1796a337",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0013347,
+                    40.7098917,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Banks Skatepark",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "1796a337",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9868473,
+                    40.6923262,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "99 Cent Fresh Hot Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9495371,
+                    40.6802762,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "1 Dollar pizza & Hot Dogs",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.988457,
+                    40.728717,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "2 Bros Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0015341,
+                    40.7290884,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Percy's Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9854193,
+                    40.72297,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "FDR 99¢ Slice Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.995534,
+                    40.7396024,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "2 Bros. Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9995731,
+                    40.7332046,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "99¢ Fresh Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9924838,
+                    40.7581604,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "One dollar Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9884602,
+                    40.7636523,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "9th Ave The Best Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9776635,
+                    40.7457332,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "99 Cent Fresh Pizza",
+                "styleUrl": "#icon-1089-nodesc",
+                "styleHash": "-644c9026",
+                "styleMapHash": {
+                    "normal": "#icon-1089-nodesc-normal",
+                    "highlight": "#icon-1089-nodesc-highlight"
+                },
+                "icon": "https://www.gstatic.com/mapspro/images/stock/1089-biz-restaurant-pizza.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9832211,
+                    40.7471147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9924253,
+                    40.7539652,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9851764,
+                    40.7640374,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9555952,
+                    40.776268,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.961862,
+                    40.764356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9817294,
+                    40.7282655,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9914118,
+                    40.7330106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9687452,
+                    40.7958403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9596323,
+                    40.7623533,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9709459,
+                    40.7886528,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7-Eleven",
+                "styleUrl": "#icon-1567-000000-labelson-nodesc",
+                "styleHash": "-4e2385e5",
+                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+            }
+        }
+    ]
+}
